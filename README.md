@@ -8,7 +8,6 @@ Takım 61
 
 - Arda Yavuz: Product Owner
 - Ayşenur Ustem: Scrum Master
-- Bahar Özden Yıldırım: Development Team Member
 - Ahmet Deveci: Development Team Member
 - Miraç Değer: Development Team Member
 ## Ürün İsmi
@@ -20,22 +19,21 @@ Takım 61
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
-
+- 3B
+- 5 Seviye
+- Tek Oyuncu
+- 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- Rekabetçi oyuncular
+- 12+
+- Strateji ve puzzle sevenler
+- Mobil ve PC oyuncuları
+
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+https://trello.com/b/k9Je594l
 
 ---
 
