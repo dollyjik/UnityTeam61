@@ -12,10 +12,11 @@ Takım 61
 - Miraç Değer: Development Team Member
 ## Ürün İsmi
 
+Gölge Yolcusu
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+-
 
 ## Ürün Özellikleri
 
