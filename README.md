@@ -42,7 +42,9 @@ https://trello.com/b/k9Je594l
 
 Sprint 1
 Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.
+
 **Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
+
 **Daily Scrum:** Daily scrumlar her gün olacak şekilde değil, birkaç günde bir whatsapp üzerinden yapılanlar/yapılamayanlar rapor verileceği şekilde düzenlenmiştir. Discord uygulamaası da toplantı ve proje kaynakları amacı ile kullanılmaktadır. Bir sprint boyunca iki ana toplantı yapılması planlanmıştır.
 ![image](https://github.com/dollyjik/UnityTeam61/assets/73404867/93d6bd5d-e5bc-47a8-94f0-7c645a84482b)
 
@@ -68,6 +70,7 @@ https://docs.google.com/document/d/1abkgotEHYRIy6lswPCRCni1L2A37zrj24GMU3l3PApY/
 -  Takım elemanlarının rolleri belirlendi. 
 -  Ürünün genel çerçevesi belirlendi. (hedef kitle, özellikler, assetler vs.)
 - Gelecek sprint üzerine nasıl ilerleneceği hakkında konuşuldu.
+
 **Sprint Review Katılımcıları:** Arda Yavuz, Ahmet Deveci, Miraç Değer, Ayşenur Ustem
 
 **Sprint Retrospective**
