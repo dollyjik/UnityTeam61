@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\ColliderCheck.cs" />
     <Compile Include="Assets\BrokenVector\LowPolyDungeon\Demo Scenes\MouseCamLook.cs" />
+    <Compile Include="Assets\UrsaAnimation\LOW POLY CUBIC - Goat and Sheep Pack\scripts\AnimationController.cs" />
     <Compile Include="Assets\Unboring Studios\3D LOW POLY Skeletons - FREE\Scripts\CameraMovement.cs" />
     <Compile Include="Assets\Scripts\EnemyScript.cs" />
     <Compile Include="Assets\BrokenVector\LowPolyDungeon\Demo Scenes\ScreenshotMaker.cs" />
@@ -71,6 +72,8 @@
   <ItemGroup>
     <None Include="Assets\3D Stylized Orc - animations+PBR(13.6k faces)\Read me.txt" />
     <None Include="Assets\Unboring Studios\3D LOW POLY Skeletons - FREE\ReadMe.txt" />
+    <None Include="Assets\3D Stylized Goblin(animations+)\Read me.txt" />
+    <None Include="Assets\Stylized NPC - Peasant Nolant\README.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
