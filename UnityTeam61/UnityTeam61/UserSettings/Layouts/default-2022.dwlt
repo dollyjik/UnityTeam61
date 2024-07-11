@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -290,7 +290,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 30fbffff
+      m_ExpandedIDs: d644feffda44feffde44feff1245feff1645feff1a45feff4645feff5245feffdc51feff065ffefff860feff2864feff48fdfeffcc0effff3c1cffff7e2bffff7681ffff7e8fffff886c0100bc6c0100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -625,7 +625,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 48, y: 48}
+      snapOffset: {x: 48, y: 10}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: UnityEditor.SceneViewCameraOverlay
@@ -657,9 +657,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -24.369167, y: -5.3884807, z: 4.986547}
+    m_Target: {x: -6.555413, y: 8.599678, z: 26.21394}
     speed: 2
-    m_Value: {x: -24.369167, y: -5.3884807, z: 4.986547}
+    m_Value: {x: -6.555413, y: 8.599678, z: 26.21394}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -705,13 +705,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.11485906, y: 0.74718386, z: -0.13386595, w: 0.64083326}
+    m_Target: {x: 0.017680151, y: 0.8732128, z: -0.031706586, w: 0.48607054}
     speed: 2
-    m_Value: {x: 0.11485905, y: 0.7471838, z: -0.13386595, w: 0.64083326}
+    m_Value: {x: 0.017726956, y: 0.87244654, z: -0.031678718, w: 0.4873596}
   m_Size:
-    m_Target: 38.491966
+    m_Target: 12.56204
     speed: 2
-    m_Value: 38.491966
+    m_Value: 12.56204
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -825,7 +825,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff000000001497000016970000189700001a9700001c9700001e970000
+    m_ExpandedIDs: ffffffff000000001497000016970000189700001c9700001e97000042150100461501009e4e0100a24e0100ae4e010020120200
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
