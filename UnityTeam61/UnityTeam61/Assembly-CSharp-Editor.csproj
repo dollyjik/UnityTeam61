@@ -781,6 +781,9 @@
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>D:\Akademi\UnityTeam61\UnityTeam61\UnityTeam61\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>D:\Akademi\UnityTeam61\UnityTeam61\UnityTeam61\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
       <HintPath>D:\Akademi\UnityTeam61\UnityTeam61\UnityTeam61\Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
