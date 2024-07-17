@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< Updated upstream
 - path: Assets/Unboring Studios/3D LOW POLY Skeletons - FREE/Scenes/Demo.unity
+=======
+- path: "Assets/seviye1\xE7ekild.unity"
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
   isSubScene: 0
