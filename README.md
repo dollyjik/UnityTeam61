@@ -92,11 +92,11 @@ Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.
 **Daily Scrum:** Daily scrumlar her gün olacak şekilde değil, birkaç günde bir whatsapp üzerinden yapılanlar/yapılamayanlar rapor verileceği şekilde düzenlenmiştir. Discord uygulaması da toplantı ve proje kaynakları amacı ile kullanılmaktadır. Bir sprint boyunca iki ana toplantı yapılması planlanmıştır.
 
 
-**Daily Scrum Screenshotsları**
+**Daily Scrum Screenshots**
 https://docs.google.com/document/d/1v6jh1J4Cm1TTp_zz-JatVBmaB8Su9Bv5poUhnM0zz4c/edit?usp=sharing
 
 
- **Sprint board screenshot: **
+ **Sprint board screenshot:**
   
 ![Screenshot 2024-07-22 031358](https://github.com/user-attachments/assets/787f304f-cea1-4357-9b7a-5aba1fc88e75)
 
@@ -108,7 +108,8 @@ https://docs.google.com/document/d/1v6jh1J4Cm1TTp_zz-JatVBmaB8Su9Bv5poUhnM0zz4c/
 https://docs.google.com/document/d/1abkgotEHYRIy6lswPCRCni1L2A37zrj24GMU3l3PApY/edit?usp=sharing
 
 
-**Oyunun mevcut hali screenshotları:**
+**Oyunun mevcut hali screenshots:**
+
 **Main Menu**
 
 ![Screenshot 2024-07-22 025901](https://github.com/user-attachments/assets/e5c25e91-007c-4e70-bd1a-123f92ddeed6)
@@ -127,11 +128,13 @@ https://docs.google.com/document/d/1abkgotEHYRIy6lswPCRCni1L2A37zrj24GMU3l3PApY/
 
 
 **Sprint Review:**
+
 **Her sprint iki ayrı ana görevlendirmeye tabi tutularak ilk yarıda:**
 - Assetler atandı ve karakterlere animasyonlar eklendi.
 - Oyun durdurma ekranı ve donma özelliği eklendi.
 - Ana Menü ekranı oluşturuldu.
 - Levellerin tasarımları yapıldı.
+
 **İkinci yarıda:**
 - İlk yarıda yapılan işler birleştirildi. Süreç devam ediyor.
 - Levellerin introsu için dollycam kullanılarak çekimler yapıldı.
@@ -139,11 +142,14 @@ https://docs.google.com/document/d/1abkgotEHYRIy6lswPCRCni1L2A37zrj24GMU3l3PApY/
 - Müzik ve fx sesleri ayarlandı. Unity’ye aktarma süreci devam ediyor.
 
 **Sprint Review Katılımcıları:** Arda Yavuz, Ahmet Deveci, Miraç Değer, Ayşenur Ustem
+
 **Sprint Retrospective**
 - Görevler her takım üyesinin yapabileceği şekilde atandı. Yardım gerekli olduğu durumlarda destek sağlandı.
 - Plananlanan bazı özelliklerin çıkartılması veya değiştirilmesi durumu ortaya çıktı.
+- Ürün dilinin Türkçe'den İngilizce'ye çevirilmesine karar verildi.
 - Branchlerde/ birleştirilmelerinde ciddi error sorunları yaşandı.
 - Proje takım üyelerinin sorumlu şekilde davranması neticesinde planlanana yakın bir ilerlemeye ulaştı.
+  
 
 
 ---
