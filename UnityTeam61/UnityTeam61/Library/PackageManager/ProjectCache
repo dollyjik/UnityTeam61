@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638563023292586332
-    m_Hash: 3614490290
+      ticks: 638567597793396326
+    m_Hash: 1038350917
   m_LockFileStatus:
     m_FilePath: "C:/Users/A.Ustem/OneDrive/Masa\xFCst\xFC/Bootcamp Oyun/UnityTeam61/UnityTeam61/UnityTeam61/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638563023292724690
-    m_Hash: 3304886740
+      ticks: 638567597793408949
+    m_Hash: 492711305
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
