@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< Updated upstream
 - path: Assets/yedekbozuk21temmz.unity
+=======
+- path: Assets/Scenes/Game.unity
+>>>>>>> Stashed changes
   isLoaded: 1
   isActive: 1
   isSubScene: 0
