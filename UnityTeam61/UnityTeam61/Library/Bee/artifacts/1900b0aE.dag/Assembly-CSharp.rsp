@@ -369,6 +369,7 @@
 "Assets/quit.cs"
 "Assets/resumme.cs"
 "Assets/Scripts/ColliderCheck.cs"
+"Assets/Scripts/DialogueUI.cs"
 "Assets/Scripts/EnemyScript.cs"
 "Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/QualitySettings.cs"

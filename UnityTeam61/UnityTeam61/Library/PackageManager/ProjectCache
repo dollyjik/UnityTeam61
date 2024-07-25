@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638574214590781270
-    m_Hash: 2258658144
+      ticks: 638574888405788200
+    m_Hash: 1150070540
   m_LockFileStatus:
     m_FilePath: C:/Users/ahmet/Documents/GitHub/UnityTeam61/UnityTeam61/UnityTeam61/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638574214590844496
-    m_Hash: 2005844650
+      ticks: 638574888405788200
+    m_Hash: 681433937
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
