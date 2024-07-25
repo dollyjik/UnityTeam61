@@ -1,10 +1,16 @@
 {
+<<<<<<<< HEAD:UnityTeam61/UnityTeam61/Library/PackageCache/com.unity.formats.fbx@4.2.1/Runtime/Unity.Formats.Fbx.Runtime.asmdef
     "name": "Unity.Formats.Fbx.Runtime",
+========
+    "name": "Unity.2D.Sprite.Editor",
+>>>>>>>> aysenur2:UnityTeam61/UnityTeam61/Library/PackageCache/com.unity.2d.sprite@1.0.0/Editor/Unity.2D.Sprite.Editor.asmdef
     "references": [],
     "optionalUnityReferences": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
-    "allowUnsafeCode": false,
+    "allowUnsafeCode": true,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
