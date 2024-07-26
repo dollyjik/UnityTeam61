@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ahmet\\Documents\\GitHub\\UnityTeam61\\UnityTeam61\\UnityTeam61\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD1AD518-8D75-D154-4C22-D50C318B0D77}|Assembly-CSharp.csproj|c:\\users\\ahmet\\documents\\github\\unityteam61\\unityteam61\\unityteam61\\assets\\scripts\\dialogueui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD1AD518-8D75-D154-4C22-D50C318B0D77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialogueui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmet\\Documents\\GitHub\\UnityTeam61\\UnityTeam61\\UnityTeam61\\Assets\\DialogueManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DialogueManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD1AD518-8D75-D154-4C22-D50C318B0D77}|Assembly-CSharp.csproj|c:\\users\\ahmet\\documents\\github\\unityteam61\\unityteam61\\unityteam61\\assets\\scripts\\diyalogackapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1AD518-8D75-D154-4C22-D50C318B0D77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\diyalogackapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DialogueUI.cs",
-              "DocumentMoniker": "C:\\Users\\ahmet\\Documents\\GitHub\\UnityTeam61\\UnityTeam61\\UnityTeam61\\Assets\\Scripts\\DialogueUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueUI.cs",
-              "ToolTip": "C:\\Users\\ahmet\\Documents\\GitHub\\UnityTeam61\\UnityTeam61\\UnityTeam61\\Assets\\Scripts\\DialogueUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DialogueUI.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAtwA8AAAAaAAAA",
+              "Title": "diyalogackapa.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Documents\\GitHub\\UnityTeam61\\UnityTeam61\\UnityTeam61\\Assets\\Scripts\\diyalogackapa.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\diyalogackapa.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Documents\\GitHub\\UnityTeam61\\UnityTeam61\\UnityTeam61\\Assets\\Scripts\\diyalogackapa.cs",
+              "RelativeToolTip": "Assets\\Scripts\\diyalogackapa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T13:26:21.64Z",
+              "WhenOpened": "2024-07-26T16:31:51.348Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DialogueManager.cs",
-              "DocumentMoniker": "C:\\Users\\ahmet\\Documents\\GitHub\\UnityTeam61\\UnityTeam61\\UnityTeam61\\Assets\\DialogueManager.cs",
-              "RelativeDocumentMoniker": "Assets\\DialogueManager.cs",
-              "ToolTip": "C:\\Users\\ahmet\\Documents\\GitHub\\UnityTeam61\\UnityTeam61\\UnityTeam61\\Assets\\DialogueManager.cs",
-              "RelativeToolTip": "Assets\\DialogueManager.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T12:35:47.399Z"
             }
           ]
         }
