@@ -10,11 +10,13 @@ Unity Takım 61
 - Ayşenur Ustem: Scrum Master
 - Ahmet Deveci: Development Team Member
 - Miraç Değer: Development Team Member
+
 ## Ürün İsmi
 
-Gölge Yolcusu
+Gölge Yolcusu / Shadow Traveler 
 
 ## Ürün Açıklaması
+
 
 
 **Projenin hikayesinin ve asset planının olduğu dosyanın linki:**
@@ -24,8 +26,9 @@ https://docs.google.com/document/d/1abkgotEHYRIy6lswPCRCni1L2A37zrj24GMU3l3PApY/
 ## Ürün Özellikleri
 
 - 3B
-- 5 Seviye
+- 4 Seviye
 - Tek Oyuncu
+
 ## Hedef Kitle
 
 - Rekabetçi oyuncular
