@@ -370,6 +370,8 @@
 "Assets/resumme.cs"
 "Assets/Scripts/ColliderCheck.cs"
 "Assets/Scripts/EnemyScript.cs"
+"Assets/Scripts/Hikayegec.cs"
+"Assets/Scripts/Hikayeyazıları.cs"
 "Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/QualitySettings.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"

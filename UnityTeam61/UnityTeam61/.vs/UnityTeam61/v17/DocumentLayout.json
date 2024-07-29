@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ahmet\\Documents\\GitHub\\UnityTeam61\\UnityTeam61\\UnityTeam61\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FD1AD518-8D75-D154-4C22-D50C318B0D77}|Assembly-CSharp.csproj|c:\\users\\ahmet\\documents\\github\\unityteam61\\unityteam61\\unityteam61\\assets\\scripts\\diyalogackapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD1AD518-8D75-D154-4C22-D50C318B0D77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\diyalogackapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD1AD518-8D75-D154-4C22-D50C318B0D77}|Assembly-CSharp.csproj|c:\\users\\ahmet\\documents\\github\\unityteam61\\unityteam61\\unityteam61\\assets\\scripts\\hikayegec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1AD518-8D75-D154-4C22-D50C318B0D77}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hikayegec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "diyalogackapa.cs",
-              "DocumentMoniker": "C:\\Users\\ahmet\\Documents\\GitHub\\UnityTeam61\\UnityTeam61\\UnityTeam61\\Assets\\Scripts\\diyalogackapa.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\diyalogackapa.cs",
-              "ToolTip": "C:\\Users\\ahmet\\Documents\\GitHub\\UnityTeam61\\UnityTeam61\\UnityTeam61\\Assets\\Scripts\\diyalogackapa.cs",
-              "RelativeToolTip": "Assets\\Scripts\\diyalogackapa.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Title": "Hikayegec.cs",
+              "DocumentMoniker": "C:\\Users\\ahmet\\Documents\\GitHub\\UnityTeam61\\UnityTeam61\\UnityTeam61\\Assets\\Scripts\\Hikayegec.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Hikayegec.cs",
+              "ToolTip": "C:\\Users\\ahmet\\Documents\\GitHub\\UnityTeam61\\UnityTeam61\\UnityTeam61\\Assets\\Scripts\\Hikayegec.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Hikayegec.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T16:31:51.348Z",
+              "WhenOpened": "2024-07-29T12:58:36.295Z",
               "EditorCaption": ""
             }
           ]
