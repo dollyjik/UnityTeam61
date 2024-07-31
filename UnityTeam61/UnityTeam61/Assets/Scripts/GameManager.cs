@@ -14,6 +14,12 @@ public class GameManager : MonoBehaviour
     public GameObject winUI;
     public GameObject loseUI;
     public GameObject pauseUI;
+
+    public GameObject dialog1;
+    public GameObject dialog2;
+    public GameObject dialog3;
+    
+    public GameObject dialogs;
     
     // Start is called before the first frame update
     void Start()
@@ -76,5 +82,22 @@ public class GameManager : MonoBehaviour
     public void TryAgainButton()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
+    public void Dialog2()
+    {
+        dialog1.SetActive(false);
+        dialog2.SetActive(true);
+    }
+    
+    public void Dialog3()
+    {
+        dialog2.SetActive(false);
+        dialog3.SetActive(true);
+    }
+
+    public void DialogEnd()
+    {
+        dialogs.SetActive(false);
     }
 }
