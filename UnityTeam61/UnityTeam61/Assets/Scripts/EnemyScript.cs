@@ -1,26 +1,30 @@
 using System;
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class EnemyScript : MonoBehaviour
 {
-    public float speed=1f; // speed
-    public float length= 10f; // length from 0 to endpoint.
-    public float posX = 1f; 
-    public float posZ = 3f;
+    public Vector3 position1 = new Vector3(0, 0, 0);
+    public Vector3 position2 = new Vector3(10, 0, 0);
+    public float speed = 2.0f;
 
-    public int enemyHp;
+    private Vector3 targetPosition;
 
-    public GameObject colliderChecker;
-
-    private void Start()
+    void Start()
     {
+        targetPosition = position2;
     }
 
-    void Update() 
+    void Update()
     {
-        Vector3 pos = new Vector3 ( posX+Mathf.PingPong (speed * Time.time, length),0.75f, posZ+Mathf.PingPong(speed * Time.time, length));
-        transform.position = pos;
+        // Move the GameObject towards the target position
+        transform.position = Vector3.MoveTowards(transform.position, targetPosition, speed * Time.deltaTime);
+
+        // Check if the GameObject has reached the target position
+        if (transform.position == targetPosition)
+        {
+            // Switch target position
+            targetPosition = targetPosition == position1 ? position2 : position1;
+        }
     }
 }

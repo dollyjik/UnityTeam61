@@ -10,12 +10,11 @@ public class VolumeController : MonoBehaviour
     private bool isMuted = false;
     private float previousVolume;
 
-    private Sprite mutedImg;
-    private Sprite unmutedImg;
+    public Sprite mutedImg;
+    public Sprite unmutedImg;
 
     void Start()
     {
-        LoadSprites();
         InitializeVolumeSettings();
 
         volumeSlider.onValueChanged.AddListener(SetVolume);
@@ -28,12 +27,6 @@ public class VolumeController : MonoBehaviour
         Debug.Log("Unmuted image loaded: " + (unmutedImg != null));
 
         UpdateButtonImage();
-    }
-
-    private void LoadSprites()
-    {
-        mutedImg = Resources.Load<Sprite>("RPG&Fantasy Mobile GUI/buttons/button_34");
-        unmutedImg = Resources.Load<Sprite>("RPG&Fantasy Mobile GUI/buttons/button_29");
     }
 
     private void InitializeVolumeSettings()

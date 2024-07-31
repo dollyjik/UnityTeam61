@@ -7,9 +7,10 @@ public class ColliderCheck : MonoBehaviour
 {
     public LayerMask layerMask;
     public bool isObstacle = false;
+    public float radiusSphere;
     void Update()
     {
-        Collider[] hitColliders = Physics.OverlapSphere(transform.position, 2f, layerMask);
+        Collider[] hitColliders = Physics.OverlapSphere(transform.position, radiusSphere, layerMask);
 
         if (hitColliders.Length > 0)
         {
@@ -19,6 +20,7 @@ public class ColliderCheck : MonoBehaviour
                 {
                     isObstacle = true;
                     Debug.Log(item.gameObject);
+                    Debug.Log("is Obstacle true");
                 }
                 if (item.gameObject.CompareTag("EnemyTag") && isObstacle == false)
                 {

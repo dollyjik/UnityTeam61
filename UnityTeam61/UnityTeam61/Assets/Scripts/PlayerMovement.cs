@@ -17,18 +17,21 @@ public class PlayerMovement : MonoBehaviour
     public GameObject indicator;
 
     public LineRenderer lineRenderer;
+
+    public ColliderCheck ColliderChecker;
     
-    
+    public float yLevel;
     
     public bool isCanGo = false;
     public bool isPaused;
+    public bool isMoveMade;
 
     private void Start()
     {
         lineRenderer = GetComponent<LineRenderer>();
-        linePoints[0] = Vector3.zero;
         lineRenderer.positionCount = (maxCapacity + 1);
         lineRenderer.enabled = false;
+        isMoveMade = false;
     }
 
     void Update()
@@ -65,6 +68,22 @@ public class PlayerMovement : MonoBehaviour
                 Instantiate(indicator, vectorPos, indicatorRotation);
                 lineIndex++;
                 Debug.Log(mousePos.x + " " + mousePos.y);
+               
+                // Ana kamerayı al
+                Camera mainCamera = Camera.main;
+
+                if (mainCamera != null)
+                {
+                    // Kameranın mevcut pozisyonunu al
+                    Vector3 cameraPosition = mainCamera.transform.position;
+
+                    // Kameranın Y pozisyonunu 1 birim yukarı çıkar
+                    cameraPosition.y += 1.0f;
+
+                    // Yeni pozisyonu kameraya uygulayın
+                    mainCamera.transform.position = cameraPosition;
+                }
+
             }
         }
 
@@ -80,9 +99,10 @@ public class PlayerMovement : MonoBehaviour
     {
         if (index <= positions.Count && isCanGo == true && isPaused == true) //If index variable less or equal to "position" List count & isCanGo variable true & isPaused true
         {
-            Vector3 controlVector = new Vector3((positions[index].x), 2f, (positions[index].z)); //Abstaction, set controlVector variable as new Vector3 and set x and z to positions[index] x and z
+            Vector3 controlVector = new Vector3((positions[index].x), yLevel, (positions[index].z)); //Abstaction, set controlVector variable as new Vector3 and set x and z to positions[index] x and z
             Vector3 currentPosition = gameObject.transform.position; //Abstaction
-            
+            ColliderChecker.isObstacle = false;
+            Debug.Log("isObstacle false");
             gameObject.transform.position = Vector3.MoveTowards(currentPosition, controlVector, 2); //Abstaction, from Current Position move towards to Control Vector 2 unit per call
 
             lineRenderer.enabled = false;
@@ -98,6 +118,7 @@ public class PlayerMovement : MonoBehaviour
                 isPaused = false; //Set isPaused variable to false
                 positions.Clear(); //Clear the "positions" List
                 DeleteIndicators();
+                isMoveMade = true;
             }
         }
     }
