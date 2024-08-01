@@ -6,14 +6,14 @@ Unity Takım 61
 
 ## Takım Elemanları
 
-**Arda Yavuz: Product Owner**
-**Ayşenur Ustem: Scrum Master**
-**Ahmet Deveci: Development Team Member**
-**Miraç Değer: Development Team Member**
+- Arda Yavuz: Product Owner
+- Ayşenur Ustem: Scrum Master
+- Ahmet Deveci: Development Team Member
+- Miraç Değer: Development Team Member
 
 ## Ürün İsmi
 
-**Shadow Traveler** 
+Shadow Traveler
 
 ## Ürün Açıklaması
 
