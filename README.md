@@ -1,5 +1,5 @@
 
-![Uploading oyun logo gölgeli-01.png…]()
+![oyun logo gölgeli-01](https://github.com/user-attachments/assets/b41b2179-0630-4dc1-aab1-5b75d432044b)
 
 
 # **Takım İsmi**
