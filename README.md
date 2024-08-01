@@ -17,6 +17,7 @@ Shadow Traveler
 
 ## Ürün Açıklaması
 
+Shadow Traveler, tek oyunculu, 3 boyutlu bir oyundur. Oyuncular, dört seviyeden oluşan bu macerada karakterin "Gölge Dash" yeteneğini kullanarak düşmanları tek atışla yok etmeye çalışır. Her seviyede oyunu durdurarak stratejik hamleler yapar ve karanlığı durdurmayı hedefler.
 
 
 **Projenin hikayesinin ve asset planının olduğu dosyanın linki:**
@@ -91,7 +92,7 @@ https://docs.google.com/document/d/1abkgotEHYRIy6lswPCRCni1L2A37zrj24GMU3l3PApY/
 # Sprint 2
 
 Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.
-**Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve bu sprinte 9 puan verilmiştir.
+**Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve bu sprinte 9 puan verilmiştir.
 
 **Daily Scrum:** Daily scrumlar her gün olacak şekilde değil, birkaç günde bir whatsapp üzerinden yapılanlar/yapılamayanlar rapor verileceği şekilde düzenlenmiştir. Discord uygulaması da toplantı ve proje kaynakları amacı ile kullanılmaktadır. Bir sprint boyunca iki ana toplantı yapılması planlanmıştır.
 
@@ -159,5 +160,86 @@ https://docs.google.com/document/d/1abkgotEHYRIy6lswPCRCni1L2A37zrj24GMU3l3PApY/
 ---
 
 # Sprint 3
+
+Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.
+
+**Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken backlog puanı 36'dır. Son sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve bu sprintte 9 puana ulaşılmıştır.
+
+**Daily Scrum:** Daily scrumlar her gün olacak şekilde değil, birkaç günde bir whatsapp üzerinden yapılanlar/yapılamayanlar rapor verileceği şekilde düzenlenmiştir. Discord uygulaması da toplantı ve proje kaynakları amacı ile kullanılmaktadır. Ürün bitirilmeye yakın olduğu için bu sprintte bir kez toplantı yapılması yeterli görülmüştür.
+
+
+**Daily Scrum Screenshotsları**
+https://docs.google.com/document/d/1v6jh1J4Cm1TTp_zz-JatVBmaB8Su9Bv5poUhnM0zz4c/edit?usp=sharing
+
+ **Sprint board screenshot:**
+
+![Screenshot 2024-08-01 201136](https://github.com/user-attachments/assets/a28fa3c3-52e0-4012-b9d2-15853e82f9bd)
+
+**Ürün Durumu:** Ürün tüm ekibin görevlerinin çoğunun tamamlanması sonucunda birleştirilip başarılı bir şekilde nihayete erdirilmiştir.
+
+**Oyun hikayesinin olduğu dosya linki:**
+https://docs.google.com/document/d/1OySI4aAqDC7UyLnRYcQfOVSHY5_w_llyfr7VVlTtPS0/edit
+
+**Oyunun mevcut hali screenshotları:**
+
+**Level 1 Kamera ve Hikaye Introsu**
+![Screenshot 2024-08-01 194744](https://github.com/user-attachments/assets/7432e418-926d-4143-8b68-aaff72b58b1e)
+
+
+**Level 1 (Düşmanları Vurma Sahnesi)**
+
+
+
+
+![Screenshot 2024-08-01 194842](https://github.com/user-attachments/assets/87d99f31-bdf0-4826-8256-e4207043f6ce)
+
+
+
+**Next Level Paneli**
+
+![Screenshot 2024-08-01 194934](https://github.com/user-attachments/assets/41cfc145-2f22-4d57-be8b-4e12d7d9b7ef)
+
+**Level 2**
+
+![Screenshot 2024-08-01 195047](https://github.com/user-attachments/assets/f8e17f11-5ffd-499d-832e-49a9633906f8)
+
+
+**Level 3**
+![Screenshot 2024-08-01 195150](https://github.com/user-attachments/assets/e095977f-cdff-4873-be81-2d6a92ffb49b)
+
+
+**Level 4**
+
+![Screenshot 2024-08-01 195259](https://github.com/user-attachments/assets/bdbed01b-389c-4fe1-82a6-5118c52671ea)
+
+
+**Kaybetme Ekranı**
+
+
+
+![Screenshot 2024-08-01 200945](https://github.com/user-attachments/assets/783b5673-6ba4-4a3b-a3e8-350dfe971ccb)
+
+
+
+**Sprint Review:**
+** Bir önceki sprintte oyun tamamlanmaya çok yaklaştığı için bu sprintte tek toplantı düzenlendi.**
+- Oyuna eklenecek diyalog metinleri hazırlandı.
+- Oyuna hikaye ve diyaloglar için paneller eklendi.
+- Oyunun yapımındaki tüm branchler final branchinde birleştirildi. 
+- Level 3 assetinin açısal yönden problem teşkil etmesi sebebiyle kaldırıldı. Oyun 4 level olarak ayarlandı. 
+- Oyunda bazı küçük değişikliklere gidildi.
+- Oyun başarılı bir şekilde dışa aktarıldı ve github güncellemesi yapıldı.
+- Oyun videosu hazırlandı.
+
+
+**Sprint Review Katılımcıları:** Arda Yavuz, Ahmet Deveci, Miraç Değer, Ayşenur Ustem
+
+
+**Sprint Retrospective**
+- Görevler her takım üyesinin yapabileceği şekilde atandı. Yardım gerekli olduğu durumlarda destek sağlandı.
+- Plananlanan bazı özelliklerin çıkartılması veya değiştirilmesi durumu ortaya çıktı.
+- Final branchinin düzenlemesinde bazı sorunlar ortaya çıktı fakat birçoğu halledildi.
+- Proje takım üyelerinin sorumlu şekilde davranması neticesinde oyun başarılı bir şekilde tamamlandı. Ekip üyeleri birbirlerini tebrik etti. 
+
 
 ---
