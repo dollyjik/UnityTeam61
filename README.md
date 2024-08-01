@@ -20,9 +20,6 @@ Shadow Traveler
 Shadow Traveler, tek oyunculu, 3 boyutlu bir oyundur. Oyuncular, dört seviyeden oluşan bu macerada karakterin "Gölge Dash" yeteneğini kullanarak düşmanları tek atışla yok etmeye çalışır. Her seviyede oyunu durdurarak stratejik hamleler yapar ve karanlığı durdurmayı hedefler.
 
 
-**Projenin hikayesinin ve asset planının olduğu dosyanın linki:**
-https://docs.google.com/document/d/1abkgotEHYRIy6lswPCRCni1L2A37zrj24GMU3l3PApY/edit?usp=sharing
-
 
 ## Ürün Özellikleri
 
@@ -181,7 +178,7 @@ https://docs.google.com/document/d/1v6jh1J4Cm1TTp_zz-JatVBmaB8Su9Bv5poUhnM0zz4c/
 **Oyun hikayesinin olduğu dosya linki:**
 https://docs.google.com/document/d/1OySI4aAqDC7UyLnRYcQfOVSHY5_w_llyfr7VVlTtPS0/edit
 
-**Oyunun mevcut hali screenshotları:**
+## **Oyunun mevcut hali screenshotları:**
 
 **Level 1 Kamera ve Hikaye Introsu**
 ![Screenshot 2024-08-01 194744](https://github.com/user-attachments/assets/7432e418-926d-4143-8b68-aaff72b58b1e)
