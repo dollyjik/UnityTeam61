@@ -6,12 +6,10 @@ Unity Takım 61
 
 ## Takım Elemanları
 
-| Product Owner  | Arda Yavuz |
-| Scrum Master | Ayşenur Ustem|
-| Developer | Ahmet Deveci |
-| Developer | Miraç Değer |
-
-
+- Arda Yavuz: Product Owner
+- Ayşenur Ustem: Scrum Master
+- Ahmet Deveci: Development Team Member
+- Miraç Değer: Development Team Member
 
 ## Ürün İsmi
 
