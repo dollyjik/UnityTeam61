@@ -6,10 +6,10 @@ Unity Takım 61
 
 ## Takım Elemanları
 
-- Arda Yavuz: Product Owner
-- Ayşenur Ustem: Scrum Master
-- Ahmet Deveci: Development Team Member
-- Miraç Değer: Development Team Member
+- ***Arda Yavuz*** | Product Owner
+- ***Ayşenur Ustem*** | Scrum Master
+- ***Ahmet Deveci*** | Development Team Member
+- ***Miraç Değer*** | Development Team Member
 
 ## Ürün İsmi
 
@@ -46,7 +46,7 @@ https://trello.com/b/k9Je594l
 
 # Sprint 1
 
-Sprint 1
+
 Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.
 
 **Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.
@@ -56,7 +56,7 @@ Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.
 
 
 
- **Sprint board screenshot: ** 
+ **Sprint board screenshot:** 
 ![Screenshot 2024-07-07 140736](https://github.com/dollyjik/UnityTeam61/assets/73404867/a262b20f-698d-4579-9fb6-59acce215bf6)
 
  
@@ -92,6 +92,7 @@ https://docs.google.com/document/d/1abkgotEHYRIy6lswPCRCni1L2A37zrj24GMU3l3PApY/
 # Sprint 2
 
 Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.
+
 **Puan tamamlama mantığı:** Proje boyunca tamamlanması gereken backlog puanı 36'dır. İkinci sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve bu sprinte 9 puan verilmiştir.
 
 **Daily Scrum:** Daily scrumlar her gün olacak şekilde değil, birkaç günde bir whatsapp üzerinden yapılanlar/yapılamayanlar rapor verileceği şekilde düzenlenmiştir. Discord uygulaması da toplantı ve proje kaynakları amacı ile kullanılmaktadır. Bir sprint boyunca iki ana toplantı yapılması planlanmıştır.
