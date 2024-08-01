@@ -178,19 +178,16 @@ https://docs.google.com/document/d/1v6jh1J4Cm1TTp_zz-JatVBmaB8Su9Bv5poUhnM0zz4c/
 **Oyun hikayesinin olduğu dosya linki:**
 https://docs.google.com/document/d/1OySI4aAqDC7UyLnRYcQfOVSHY5_w_llyfr7VVlTtPS0/edit
 
-## **Oyunun mevcut hali screenshotları:**
+**Oyunun mevcut hali screenshotları:**
 
 **Level 1 Kamera ve Hikaye Introsu**
+
 ![Screenshot 2024-08-01 194744](https://github.com/user-attachments/assets/7432e418-926d-4143-8b68-aaff72b58b1e)
 
 
 **Level 1 (Düşmanları Vurma Sahnesi)**
 
-
-
-
 ![Screenshot 2024-08-01 194842](https://github.com/user-attachments/assets/87d99f31-bdf0-4826-8256-e4207043f6ce)
-
 
 
 **Next Level Paneli**
@@ -213,14 +210,11 @@ https://docs.google.com/document/d/1OySI4aAqDC7UyLnRYcQfOVSHY5_w_llyfr7VVlTtPS0/
 
 **Kaybetme Ekranı**
 
-
-
 ![Screenshot 2024-08-01 200945](https://github.com/user-attachments/assets/783b5673-6ba4-4a3b-a3e8-350dfe971ccb)
 
 
 
 **Sprint Review:**
-** Bir önceki sprintte oyun tamamlanmaya çok yaklaştığı için bu sprintte tek toplantı düzenlendi.**
 - Oyuna eklenecek diyalog metinleri hazırlandı.
 - Oyuna hikaye ve diyaloglar için paneller eklendi.
 - Oyunun yapımındaki tüm branchler final branchinde birleştirildi. 
