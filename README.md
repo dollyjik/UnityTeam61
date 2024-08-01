@@ -216,7 +216,7 @@ https://docs.google.com/document/d/1OySI4aAqDC7UyLnRYcQfOVSHY5_w_llyfr7VVlTtPS0/
 
 ![Screenshot 2024-08-01 200945](https://github.com/user-attachments/assets/783b5673-6ba4-4a3b-a3e8-350dfe971ccb)
 
-##**Final Videosu** 
+## **Final Videosu** 
 
 
 **Sprint Review:**
